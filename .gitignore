@@ -1,0 +1,28 @@
+# Pre-trained models and large archives
+*.zip
+*.tar.gz
+*.7z
+
+# Assignment instructions and submissions
+*.pdf
+for submission/
+submission/
+*_submission*
+
+# Old homework template files
+*template*
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+venv/
+env/
+.env
+
+# OS / IDE generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
